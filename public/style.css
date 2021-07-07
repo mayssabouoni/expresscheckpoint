@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    background: url("https://i.pinimg.com/736x/d2/5b/cc/d25bcc9ea983adf0daaae80062fd77d3.jpg")
+      no-repeat center center fixed;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    color: cornsilk;
+    font-size: 50px;
+    
+}
+.a{
+    color: darkgreen;
+    margin-right: 100px;
+    margin-left: 180px;
+    text-decoration: none;
+
+}
